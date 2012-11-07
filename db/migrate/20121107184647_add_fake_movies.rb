@@ -4,7 +4,7 @@ class AddFakeMovies < ActiveRecord::Migration
     {:title => 'The Terminator',          :rating => 'R',     :release_date => '26-Oct-1984', :director => 'James Cameron'},
     {:title => 'When Harry Met Sally',    :rating => 'R',     :release_date => '21-Jul-1989', :director => 'Rob Reiner'},
     {:title => 'The Help',                :rating => 'PG-13', :release_date => '10-Aug-2011', :director => 'Tate Taylor'},
-    {:title => 'Chocolat',                :rating => 'PG-13', :release_date => '5-Jan-2001',  :director => 'Lasse Hallström'},
+    {:title => 'Chocolat',                :rating => 'PG-13', :release_date => '5-Jan-2001',  :director => 'Lasse Hallstrom'},
     {:title => 'Amelie',                  :rating => 'R',     :release_date => '25-Apr-2001', :director => 'Jean-Pierre Jeunet'},
     {:title => '2001: A Space Odyssey',   :rating => 'G',     :release_date => '6-Apr-1968',  :director => 'Stanley Kubrick'},
     {:title => 'The Incredibles',         :rating => 'PG',    :release_date => '5-Nov-2004',  :director => 'Brad Bird'},
